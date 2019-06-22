@@ -1,0 +1,27 @@
+{
+  "name": "get-apple-music-link",
+  "version": "1.0.0",
+  "description": "Get an Apple Music url link from a song name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngryKiller/get-apple-music-link.git"
+  },
+  "keywords": [
+    "Apple",
+    "Music",
+    "iTunes"
+  ],
+  "author": "AngryKiller",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/AngryKiller/get-apple-music-link/issues"
+  },
+  "homepage": "https://github.com/AngryKiller/get-apple-music-link#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
